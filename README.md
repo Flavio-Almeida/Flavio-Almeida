@@ -1,8 +1,11 @@
 <h1>🤘 Hello folks! ☕</h1>  
 💻 I'm a developer since 2010 and through this time, I've been dealing with different technologies and challenges. Every day trying to to earn more knowledge and living pactice. 🍵
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-Almeida&show_icons=true&theme=tokyonight&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Almeida&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flavio-Almeida&show_icons=true&theme=tokyonight&show=prs_merged" /><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flavio-Almeida&bg_color=1a1b27&color=38bdae&line=2b3752&point=638fda&area=true&hide_border=true" style="border-radius: 10px;" />
+</div>
 
 <br>
 <h2>👨‍💻 Here are some of the technologies I've worked with </h2>
