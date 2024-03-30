@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&reversal=false" width="100%"/>
+
 <h1>🤘 Hello folks! ☕</h1>  
 💻 I'm a developer since 2010 and through this time, I've been dealing with different technologies and challenges. Every day trying to to earn more knowledge and living pactice. 🍵
 
@@ -49,3 +51,5 @@
   <a href="https://www.linkedin.com/in/flavio-almeida-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:fsvalmeida@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer&reversal=true" width="100%"/>
