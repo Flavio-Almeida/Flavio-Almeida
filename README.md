@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&reversal=false&section=header&color=0:A020F0,100:4B0082" width="100%"/>
 
 <h1>🤘 Hello folks! ☕</h1>  
 💻 I'm a developer since 2010 and through this time, I've been dealing with different technologies and challenges. Every day trying to to earn more knowledge and living pactice. 🍵
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="70px" style="border-radius:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70px"/>
 </div>
 <div align="center">
@@ -52,4 +53,4 @@
   <a href="mailto:fsvalmeida@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:A020F0,100:4B0082&section=footer&reversal=true" width="100%"/>
